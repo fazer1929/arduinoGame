@@ -21,4 +21,4 @@ Let's see if you can beat my score (13) 😉
 <img width="33%" src="https://i.ibb.co/T8mxG5C/s3.png"/>
 --
 
-## [Tryout Link](https://www.tinkercad.com/things/kb1inujt5dI-daring-wluff-sango/editel?sharecode=yHwYwYj0DpyRcJ10_MXK-wZ-UUm2czcrg-l3NTHQdYs)
+## <a target="_blank" href="https://www.tinkercad.com/things/kb1inujt5dI-daring-wluff-sango/editel?sharecode=yHwYwYj0DpyRcJ10_MXK-wZ-UUm2czcrg-l3NTHQdYs">Tryout Link</a>
